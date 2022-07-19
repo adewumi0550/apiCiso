@@ -1,0 +1,37 @@
+{
+  "name": "apiciso",
+  "version": "1.0.0",
+  "description": "Ciso Api backend ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm start",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adewumi0550/apiCiso.git"
+  },
+  "keywords": [
+    "Rent",
+    "API",
+    "Payment"
+  ],
+  "author": "Adewumi Saheed (Backend APi)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adewumi0550/apiCiso/issues"
+  },
+  "homepage": "https://github.com/adewumi0550/apiCiso#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "body-parser": "^1.20.0",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "node-mailjet": "^5.0.1",
+    "nodemon": "^2.0.19",
+    "pg": "^8.7.3",
+    "typeorm": "^0.3.7"
+  }
+}
