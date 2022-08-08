@@ -2,14 +2,14 @@
 
 Rest API Application for Rent Apartment endpoint 
 
-Application features
-. Auth{
+#Application features
+- Auth{
     Login
     Logout
     Register
     Update profile 
     Contract Matching
 }
-. Mail Sender
-. Create contract 
-. Reset password 
+- Mail Sender
+- Create contract 
+- Reset password 
